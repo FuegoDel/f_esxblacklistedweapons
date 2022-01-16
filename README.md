@@ -13,6 +13,6 @@ A configurable script that checks for blacklisted weapons
 
 # Configuration
 
-1 : Through client.lua file you can configure all the blacklisted weapon names you want, feel free to remove or add anything in the table
+1 : Through server.lua file you can configure all the blacklisted weapon names you want, feel free to remove or add anything in the table
 
 2 : fill your discord webhook to the webhook variable
